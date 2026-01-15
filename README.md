@@ -1,122 +1,21 @@
-👋 Hi, I'm Satvik Mehan
+# 💫 About Me:
+👩‍💻 About Me :<br><br>🔭 I’m currently working on<br><br>Flutter & Dart based mobile applications<br><br>OnePlatter – a restaurant app with API integration, filters, and cart/payment flow<br><br>Improving Data Structures & Algorithms using C++<br><br>👯 I’m looking to collaborate on<br><br>Flutter mobile apps<br><br>Beginner–intermediate open-source projects<br><br>UI-focused or API-integrated applications<br><br>🤝 I’m looking for help with<br><br>Advanced Flutter state management (Bloc / Riverpod)<br><br>Writing scalable app architecture<br><br>Industry-level Flutter best practices<br><br>🌱 I’m currently learning<br><br>Advanced Flutter & Dart<br><br>Clean Architecture in mobile apps<br><br>Backend integration & API optimization<br><br>Problem solving with DSA<br><br>💬 Ask me about<br><br>Flutter & Dart<br><br>Mobile App Development<br><br>API integration in Flutter<br><br>C++ basics and DSA concepts<br><br>⚡ Fun fact<br><br>I love turning real-world problems into mobile apps and enjoy debugging more than writing code 😄
 
-🎓 Final-year B.Tech (Industrial Internet of Things)
-📍 New Delhi, India
-💼 Actively Seeking Software / Flutter / Full-Stack Internship Roles (2026 Batch)
 
-💡 I’m a motivated engineering student with strong hands-on experience in Flutter mobile apps, full-stack web development, and IoT systems. I enjoy building real-world projects, learning fast, and working in collaborative environments.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Satvik Mehan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satvikmehan@gmail.com) 
 
-🔎 Internship Focus
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=satvikmehan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=satvikmehan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikmehan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✔ Flutter Development Intern
-✔ Software Development Intern
-✔ Full-Stack / Backend Intern
-✔ IoT / Embedded Systems Intern
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satvikmehan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🛠️ Tech Stack & Tools
-💻 Programming
+---
+[![](https://visitcount.itsvg.in/api?id=satvikmehan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-
-
-
-📱 Mobile & Web Development
-
-
-
-
-
-
-
-
-
-
-🤖 IoT, AI & Databases
-
-
-
-
-
-
-
-
-🔧 Tools
-
-
-
-
-
-
-
-
-📌 Featured Projects (Internship-Relevant)
-🍽️ OnePlatter – Full Stack Restaurant App
-
-Flutter | REST APIs
-
-Restaurant browsing, cart & payment flow
-
-API-driven menu & order handling
-
-Filters for cuisine, pricing & ratings
-
-🕷️ Web Scraper & Data Collection System
-
-Python | BeautifulSoup
-
-Automated web scraping
-
-Data cleaning & preprocessing
-
-Pagination & dynamic content handling
-
-🧤 Smart Assistive Gloves (IoT Automation)
-
-ESP32 | Embedded Systems
-
-Gesture-based appliance control
-
-Wireless communication & automation
-
-📚 AI-Based Book Recommender
-
-React | Django | ML
-
-Personalized recommendations
-
-Review & rating system
-
-📄 Research paper presented at IC-AMS1 2024
-
-🚕 QuickCab – Cab Booking App
-
-Flutter | Firebase
-
-Rider–driver modules
-
-Live location tracking
-
-Real-time backend services
-
-🏆 Achievements
-
-🏅 Finalist – Smart India Hackathon 2024
-🥇 5th Position – HackOClock Hackathon
-🥉 Zonal-Level Winner – Python Coding Battleground
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satvikmehan&show_icons=true&theme=default" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvikmehan" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvikmehan&layout=compact" /> </p>
-📫 Let’s Connect
-
-📧 Email: satvikmehan@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/satvik-mehan-257401217
-
-🌐 GitHub: https://github.com/satvikmehan
-
-⭐ Open to internship opportunities – feel free to reach out!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
